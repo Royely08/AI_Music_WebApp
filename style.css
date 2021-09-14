@@ -1,0 +1,46 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body{
+    background-size: cover;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.div_speed_img,.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed,#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button{
+    width: 120px;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+canvas{
+    border: 5px solid rgb(255, 197, 197);
+    border-radius: 20px;
+}
