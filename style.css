@@ -3,6 +3,7 @@
     width: 100%;
     margin: 0px;
     font-family: 'Nunito Sans', sans-serif;
+    box-shadow: 5px 5px 5px lightskyblue;
 }
 
 .note{
@@ -27,6 +28,7 @@ body{
 .div_speed_img,.div_volume_img{
     width: 200px;
     border-radius: 100px;
+    box-shadow: 5px 5px 5px red;
 }
 
 #speed,#volume{
@@ -41,6 +43,6 @@ body{
 }
 
 canvas{
-    border: 5px solid rgb(255, 197, 197);
+    border: 5px dotted rgb(255, 197, 197);
     border-radius: 20px;
 }
